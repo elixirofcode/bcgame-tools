@@ -197,6 +197,11 @@ include 'template/header.php';
 
 <div class="page-content publicpage">
 
+  <p class="text-center">
+    <img class="img-responsive" src="assets/img/beauties/banner.png" alt="beauties" width="400">
+  </p>
+
+
   <div class="block">
     <div class="row">
       <div class="col">
