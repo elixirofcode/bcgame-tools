@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/framework7@5.7.10/css/framework7.bundle.min.css" integrity="sha256-LxDhBxOEISMpiyBOP5xwV89oIg7GqNcfF2QofLlS5IA=" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/main.css">
 
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script>
+
     <title><?php echo $page_title; ?></title>
   </head>
   <body class="theme-dark">
@@ -32,6 +35,12 @@
                 <div class="item-inner"><div class="item-title">Oriental Beauties Verification tool</div></div>
               </a>
             </li>
+              <li>
+                <a class="panel-close external item-content item-link" href="keno.php">
+                  <div class="item-media"><i class="material-icons">exit_to_app</i></div>
+                  <div class="item-inner"><div class="item-title">Keno Verification tool</div></div>
+                </a>
+              </li>
           </ul>
           </div>
         </div>

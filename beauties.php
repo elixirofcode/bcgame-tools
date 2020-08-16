@@ -275,8 +275,8 @@ include 'template/header.php';
   <div class="block-title block-title-large">Final Result</div>
   <div class="block">
     <div class="row">
-      <div class="col-20"></div>
-      <div class="col-60">
+      <div class="col-100 medium-20"></div>
+      <div class="col-100 medium-60">
         <div class="row">
           <div class="col">
             <img class="img-responsive" src="assets/img/beauties/Icon_placeholder.png" alt="">
@@ -313,7 +313,7 @@ include 'template/header.php';
           </div>
         </div>
       </div>
-      <div class="col-20"></div>
+      <div class="col-100 medium-20"></div>
     </div>
   </div>
   <div class="block-title">Details</div>

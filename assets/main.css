@@ -95,6 +95,24 @@ tr.highlight td {
 
 .yellow-color {color: #ffe22b;}
 
+.data-table.keno td {
+  border: 1px solid #5f5f5f;
+  text-align: center;
+}
+
+.data-table.keno td.highlight {
+  background-color: #07fc08;
+  color: #000;
+  transition: all 1.5s;
+}
+
+code {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    overflow-x: scroll;
+}
+
 /* The emerging W3C standard
    that is currently Firefox-only */
 * {
