@@ -11,7 +11,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/framework7@5.7.10/css/framework7.bundle.min.css" integrity="sha256-LxDhBxOEISMpiyBOP5xwV89oIg7GqNcfF2QofLlS5IA=" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/main.css">
 
     <title><?php echo $page_title; ?></title>

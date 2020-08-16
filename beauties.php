@@ -520,6 +520,9 @@ include 'template/header.php';
    </div>
 <?php endif; ?>
 
+  <div class="block">
+    <a class="github-button" href="https://github.com/elixirofcode/bcgame" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Follow @elixirofcode on GitHub">GitHub</a>
+  </div>
 
 
 </div>
