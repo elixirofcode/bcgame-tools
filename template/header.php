@@ -30,6 +30,12 @@
 
           <ul>
             <li>
+              <a class="panel-close external item-content item-link" href="crash.php">
+                <div class="item-media"><i class="material-icons">exit_to_app</i></div>
+                <div class="item-inner"><div class="item-title">Crash Verification tool</div></div>
+              </a>
+            </li>
+            <li>
               <a class="panel-close external item-content item-link" href="beauties.php">
                 <div class="item-media"><i class="material-icons">exit_to_app</i></div>
                 <div class="item-inner"><div class="item-title">Oriental Beauties Verification tool</div></div>
