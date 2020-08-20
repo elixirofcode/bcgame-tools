@@ -27,12 +27,17 @@
         <div class="page-content">
           <div class="block-title">bc.game Verification tools</div>
           <div class="list components-list">
-
           <ul>
             <li>
               <a class="panel-close external item-content item-link" href="crash.php">
                 <div class="item-media"><i class="material-icons">exit_to_app</i></div>
                 <div class="item-inner"><div class="item-title">Crash Verification tool</div></div>
+              </a>
+            </li>
+            <li>
+              <a class="panel-close external item-content item-link" href="sword.php">
+                <div class="item-media"><i class="material-icons">exit_to_app</i></div>
+                <div class="item-inner"><div class="item-title">Savior Sword Verification tool</div></div>
               </a>
             </li>
             <li>
@@ -48,7 +53,17 @@
                 </a>
               </li>
           </ul>
+          <div class="block-title">Bet tools</div>
+          <ul>
+            <li>
+              <a class="panel-close external item-content item-link" href="bet.php">
+                <div class="item-media"><i class="material-icons">exit_to_app</i></div>
+                <div class="item-inner"><div class="item-title">Bet calculator</div></div>
+              </a>
+            </li>
+          </ul>
           </div>
+
         </div>
         </div>
         <div class="panel-resize-handler"></div>
